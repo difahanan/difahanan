@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=difahanan.visitor-badge&left_color=BLACK&right_color=BLUE&left_text=HELLO%20VISITORS" width="150" height="AUTO">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=difahanan.visitor-badge&left_color=BLACK&right_color=BLUE&left_text=HELLO%20VISITORS👁" width="150" height="AUTO">
 
 <!-- ![](https://komarev.com/ghpvc/?username=difahanan&style=for-the-badge&color=blue) -->
