@@ -1,4 +1,5 @@
-<!-- <h1> Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
+        <!-- 
+<h1> Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
 <p> My name is Difa Hanan and I'm a Full Stack Web developer, from <b>indonesia</b>. </p>
 <br>
 
@@ -40,7 +41,7 @@
 </div>
 <br> -->
 
-HELLO EVERYONE 👋
+<b> HELLO EVERYONE </b>👋
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=difahanan.visitor-badge&left_color=BLACK&right_color=BLUE&left_text=VISITORS" width="125" height="AUTO">
 
