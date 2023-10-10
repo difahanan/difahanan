@@ -74,7 +74,7 @@
 -->
 
 
-
+<!--
 <h3 align="left">🛠 Language and tools</h3>
 <br>
 <div align="center">
@@ -107,3 +107,4 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
 <br>
+-->
