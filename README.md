@@ -1,10 +1,9 @@
-        <!-- 
+<!-- 
 <h1> Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
 <p> My name is Difa Hanan and I'm a Full Stack Web developer, from <b>indonesia</b>. </p>
 <br>
-
 <h3 align="left">🛠 Language and tools</h3>
-
+<br>
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
     <img width="12" />
@@ -39,8 +38,7 @@
 <div align="ri">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=difahanan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=difahanan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=❌ MY STATS ❌" height="150" alt="stats graph" /> <br>
-<br> -->
+-->
 
 <b> HELLO EVERYONE </b>👋
 
