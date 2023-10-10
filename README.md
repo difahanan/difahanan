@@ -43,10 +43,9 @@
 HELLO EVERYONE 👋
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=difahanan.visitor-badge&left_color=BLACK&right_color=BLUE&left_text=VISITORS" width="125" height="AUTO">
-![](https://komarev.com/ghpvc/?username=difahanan&style=for-the-badge&color=blue) 
-<!-- 
--->
 
+<!--  ![]( )-->
+https://komarev.com/ghpvc/?username=difahanan&style=for-the-badge&color=blue
 
 <!---
 <div align="center">
