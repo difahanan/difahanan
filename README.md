@@ -56,4 +56,6 @@ Here are some ideas to get you started:
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=difahanan.visitor-badge&left_color=BLACK&right_color=BLUE&left_text=VISITORS" width="125" height="AUTO">
 
+<img src="https://raw.githubusercontent.com/difahanan/difahanan/output/snake.svg" alt="Snake animation" />
+
 <!-- ![](https://komarev.com/ghpvc/?username=difahanan&style=for-the-badge&color=blue) -->
