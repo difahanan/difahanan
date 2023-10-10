@@ -1,19 +1,8 @@
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=difahanan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2&custom_title=MOST USED LANGUAGE" height="150" alt="languages graph" width="150"/> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=difahanan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=❌ MY STATS ❌" height="150" alt="stats graph" width="150" /> <br>
-  <img src="https://streak-stats.demolab.com?user=difahanan&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=0&order=3" height="150" alt="streak graph" width="150" />
-</div>
-
-###
-
-
 <!-- <h1> Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
 <p> My name is Difa Hanan and I'm a Full Stack Web developer, from <b>indonesia</b>. </p>
 <br>
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -54,8 +43,9 @@
 HELLO EVERYONE 👋
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=difahanan.visitor-badge&left_color=BLACK&right_color=BLUE&left_text=VISITORS" width="125" height="AUTO">
-
-<!-- ![](https://komarev.com/ghpvc/?username=difahanan&style=for-the-badge&color=blue) -->
+![](https://komarev.com/ghpvc/?username=difahanan&style=for-the-badge&color=blue) 
+<!-- 
+-->
 
 
 <!---
