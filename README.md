@@ -40,7 +40,7 @@
 </div>
 -->
 
-<b> HELLO EVERYONE </b>👋
+<h1> HELLO EVERYONE </h1>👋
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=difahanan.visitor-badge&left_color=BLACK&right_color=BLUE&left_text=VISITORS" width="125" height="AUTO">
 
