@@ -1,4 +1,4 @@
-<!-- 
+
 <h1> Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
 <p> My name is Difa Hanan and I'm a Full Stack Web developer, from <b>indonesia</b>. </p>
 <br>
@@ -38,7 +38,7 @@
 <div align="ri">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=difahanan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
--->
+
 
 <h1> HELLO EVERYONE 👋</h1>
 
