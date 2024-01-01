@@ -1,6 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fullstack-Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-<br>
 <link href="https://fonts.googleapis.com/css2?family: Bungee+Shade&family: Nosifer&display: swap">
 <link href="https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Nosifer&display=swap" rel="stylesheet">
 <span style="color: red; font-size: 15; font-family: 'Nosifer', sans-serif;"><h1>HELLO EVERYONE WELCOME
