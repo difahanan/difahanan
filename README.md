@@ -7,7 +7,8 @@
 </span>
 <br><br>
 <!-- <h1 align="center">LANGUAGE & TOOLS -->
-<h1 font-size=200>LANGUAGE & TOOLS
+<h1 font-size=200>LANGUAGE & TOOLS</h1>
+
     
 <br><br>
 <div align="center">
