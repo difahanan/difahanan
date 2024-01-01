@@ -6,15 +6,10 @@
     <img style="width: 180%; height: auto;" src="https://visitor-badge.laobi.icu/badge?page_id=difahanan.visitor-badge&left_color=RED&right_color=DARKBLUE&left_text=VISITORS">
 </span>
 <br><br>
-<!-- <h1 align="center">LANGUAGE & TOOLS -->
-<!-- <h1 font-size=200>LANGUAGE & TOOLS</h1>
-<h1 style=font-size=200>LANGUAGE & TOOLS</h1> -->
     
-<!-- <h1 style="font-size: 200px;"></h1> -->
-<h1 width="100"/>kontl
-<h1 style="width: 180%";>kontol
-    
+<h1 align="center">LANGUAGE & TOOLS
 <br><br>
+    
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
     <img width="12"/>
