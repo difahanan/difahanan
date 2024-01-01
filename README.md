@@ -62,6 +62,10 @@
 
 
 
+
+-->
+
+
 <h1 align="center">hey there 👋</h1>
 
 <h3 align="left">👩‍💻  About Me</h3>
@@ -74,10 +78,7 @@
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div> 
 
--->
-
-
-
+<!--
 <h3 align="left">🛠 Language and tools</h3>
 <br>
 <div align="center">
@@ -110,4 +111,4 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
 <br>
-
+-->
