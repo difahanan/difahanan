@@ -3,7 +3,7 @@
 <link href="https://fonts.googleapis.com/css2?family: Bungee+Shade&family: Nosifer&display: swap">
 <link href="https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Nosifer&display=swap" rel="stylesheet">
 <span style="color: red; font-size: 15; font-family: Nosifer,sans-serif;"><h1>HELLO EVERYONE WELCOME
-    <img style="width: 18%; height: auto;" src="https://visitor-badge.laobi.icu/badge?page_id=difahanan.visitor-badge&left_color=RED&right_color=DARKBLUE&left_text=VISITORS">
+    <img style="width: 180%; height: auto;" src="https://visitor-badge.laobi.icu/badge?page_id=difahanan.visitor-badge&left_color=RED&right_color=DARKBLUE&left_text=VISITORS">
 </span>
 <br><br>
 <!-- <h1 align="center">LANGUAGE & TOOLS -->
