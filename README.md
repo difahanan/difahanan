@@ -11,7 +11,7 @@
 <h1 style=font-size=200>LANGUAGE & TOOLS</h1> -->
     
 <!-- <h1 style="font-size: 200px;"></h1> -->
-<h1 style="width: 100%";>kontl</h1>
+<h1 width: 100%>kontl</h1>
 
     
 <br><br>
