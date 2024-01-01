@@ -6,7 +6,9 @@
     <img style="width: 18%; height: auto;" src="https://visitor-badge.laobi.icu/badge?page_id=difahanan.visitor-badge&left_color=RED&right_color=DARKBLUE&left_text=VISITORS">
 </span>
 <br><br>
-<h1 align="center">LANGUAGE & TOOLS
+<!-- <h1 align="center">LANGUAGE & TOOLS -->
+<h1 fontSize=72>LANGUAGE & TOOLS
+    
 <br><br>
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
