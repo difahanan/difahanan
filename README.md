@@ -1,6 +1,6 @@
 
 <h1> Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
-<p> My name is Difa Hanan and I'm a Full Stack Web developer, from <b>indonesia</b>. </p>
+<!-- <p> My name is Difa Hanan and I'm a Full Stack Web developer, from <b>indonesia</b>. </p> -->
 <br>
 <h3 align="left">🛠 Language and tools</h3>
 <br>
@@ -75,7 +75,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=difahanan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div> 
 
 <!--
