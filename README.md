@@ -2,7 +2,7 @@
 <img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fullstack-Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <br>
 <link href="https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Nosifer&display=swap">
-    <span color="red" font-size="50px" font-family="Nosifer"> HELLO EVERYONE WELCOME
+    <span color="red" font-size="50px" font-family="Nosifer"> HELLO EVERYONE WELCOME 
     <img width="15%" height="auto" src="https://visitor-badge.laobi.icu/badge?page_id=difahanan.visitor-badge&left_color=RED&right_color=DARKBLUE&left_text=VISITORS">
 </span>
 <br>
