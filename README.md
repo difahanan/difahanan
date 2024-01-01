@@ -1,24 +1,15 @@
-<style>
+    <style>
         @import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
         body {
             margin: 0;
             padding: 0;
         }
-        span {
-            color: red;
-            font-size: 50px;
-            font-family: 'Nosifer', sans-serif;
-        }
-        img {
-            width: 15%;
-            height: auto;
-        }
     </style>
 
-    <span>
+    <span style="color: red; font-size: 50px; font-family: 'Nosifer', sans-serif;">
         HELLO EVERYONE WELCOME
         <!-- <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50"/> -->
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=difahanan.visitor-badge&left_color=RED&right_color=DARKBLUE&left_text=VISITORS">
+        <img style="width: 15%; height: auto;" src="https://visitor-badge.laobi.icu/badge?page_id=difahanan.visitor-badge&left_color=RED&right_color=DARKBLUE&left_text=VISITORS">
     </span>
 <br>
 <h3 align="left">Language and tools</h3>
