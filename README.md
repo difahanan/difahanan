@@ -8,7 +8,7 @@
 </span>
 <br>
 
-<h3 align="center font-size: 30px">LANGUAGE & TOOLS</h3>
+<h3 font-size: "30px" align="center">LANGUAGE & TOOLS</h3>
 <br>
 
 <div align="center">
