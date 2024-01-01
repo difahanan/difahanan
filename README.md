@@ -7,9 +7,9 @@
     <img style="width: 15%; height: auto;" src="https://visitor-badge.laobi.icu/badge?page_id=difahanan.visitor-badge&left_color=RED&right_color=DARKBLUE&left_text=VISITORS">
 </span>
 <br>
-<h3 style="font-size: 30px; text-align: center;">LANGUAGE & TOOLS</h3>
+<h3 align="center">LANGUAGE & TOOLS</h3>
 <br>
-<div style="text-align: center;">
+<div style="text-align:center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
     <img width="12"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
@@ -42,9 +42,6 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=difahanan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"/>
 </div>
-
-<!-- <img width=100% title="Hornet-Developer" alt="Hornet-Developer"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/> -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
         
 <!--- 
 <h1> HELLO EVERYONE 👋</h1
