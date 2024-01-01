@@ -12,7 +12,7 @@
     
 <!-- <h1 style="font-size: 200px;"></h1> -->
 <h1 width="100"/>kontl
-<h1 style="width: 180%;
+<h1 style="width: 180%";
     
 <br><br>
 <div align="center">
