@@ -2,7 +2,7 @@
 <img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fullstack-Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <link href="https://fonts.googleapis.com/css2?family: Bungee+Shade&family: Nosifer&display: swap">
 <link href="https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Nosifer&display=swap" rel="stylesheet">
-<span style="color: red; font-size: 15; font-family: Nosifer,sans-serif;"><h1>HELLO EVERYONE WELCOME
+<span style="color: red; font-size: 15; font-family: Nosifer,sans-serif;">
     <img style="width: 18%; height: auto;" src="https://visitor-badge.laobi.icu/badge?page_id=difahanan.visitor-badge&left_color=RED&right_color=DARKBLUE&left_text=VISITORS">
 </span>
 <br>
@@ -65,11 +65,6 @@
     <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<hr>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-I am a fast learner and eager to explore new technologies. An advocate of agile software development, teamwork, and clean code. Able and ready to think outside the box.
-
-I'm a well organized person very passionate and dedicated to my work. I'm used to always finish to my work until the end.
-
-I never give up. I prefer to keep learning, continue challenging myself, and do interesting things that matter. I like to develop expertise in a number of areas over the course of my life and I am always open for new opportunities.
+<!--
+    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
+-->
