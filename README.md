@@ -109,21 +109,6 @@ I never give up. I prefer to keep learning, continue challenging myself, and do 
 
 <hr>
 
-
-
-
-
-
-
-### On Her Blog (in Portuguese)
-<!-- BLOG:START -->
-- [“Conversando” com uma IA: perguntei ao Bard, do Google, sobre o trabalho do futuro](https://camilaloliveira.com.br/blog/milla/conversando-com-uma-ia-perguntei-ao-bard-do-google-sobre-o-trabalho-do-futuro/)
-- [O desafio do debate: a guerra de informações sobre o PL das Fake News](https://camilaloliveira.com.br/blog/milla/o-desafio-do-debate-a-guerra-de-informacoes-sobre-o-pl-das-fake-news/)
-- [Precisamos conversar sobre a violência](https://prensa.li/@clcmo/precisamos-conversar-sobre-a-violencia)
-- [E o Mundo Caiu?](https://prensa.li/@clcmo/e-o-mundo-caiu)
-<!-- BLOG:END -->
-
-
 ## Favorit ebooks
 <div align="center">
   <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.-cyWrkZ1Y4gnObYhGu9EAwAAAA%26pid%3DApi&f=1&ipt=47d4acb41e114394971e6af81b8ba95451997bf0bc6bd27c05bba11ec5f287a9&ipo=images" />
