@@ -44,18 +44,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=difahanan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"/>
 </div>
 
-<!-- <img width=100% title="Hornet-Developer" alt="Hornet-Developer"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/> -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-<!-- <h4 align="center">
-<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> My Github Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
-</h4> -->
-
-<br>
-<br>
-  <summary>
+<summary>
   <h3>Social Midia</h3>
-  </summary>
+</summary>
 <div> 
     <a href="https://youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -64,6 +55,15 @@
     <a href="https://gmail.com/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<!-- <img width=100% title="Hornet-Developer" alt="Hornet-Developer"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/> -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<!-- 
+    <h4 align="center">
+    <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> My Github Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+    </h4> 
+-->
 
 <!--
     <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
