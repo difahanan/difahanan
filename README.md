@@ -45,7 +45,7 @@
 </div>
 
 <summary>
-  <h3>Social Midia</h3>
+  <h3>Social Media</h3>
 </summary>
 <div>
     <a href="https://youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
