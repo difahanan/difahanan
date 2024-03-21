@@ -7,6 +7,13 @@
 </span>
 <br>
 
+<!-- 
+<p align="center">
+  <a><img
+      src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=50&center=true&vCenter=true&width=800&height=100&lines=Software+Engineer+;Computer+Science+Student"></a>
+</p>
+-->
+
 <h1 align="center">LANGUAGE & TOOLS
 <br><br>
 
