@@ -12,6 +12,8 @@
   <a><img
       src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=50&center=true&vCenter=true&width=800&height=100&lines=Software+Engineer+;Computer+Science+Student"></a>
 </p>
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture>
 -->
 
 <h1 align="center">LANGUAGE & TOOLS
