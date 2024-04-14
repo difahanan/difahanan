@@ -80,7 +80,7 @@
     <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge"/></a>
 </div>
 
-<!-- <img width=100% title="Hornet-Developer" alt="Hornet-Developer"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/> -->
+<img width=100% title="Hornet-Developer" alt="Hornet-Developer"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/> 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!--
