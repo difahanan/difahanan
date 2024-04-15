@@ -1,14 +1,14 @@
-<!--<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fullstack-Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <link href="https://fonts.googleapis.com/css2?family: Bungee+Shade&family: Nosifer&display: swap">
 <link href="https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Nosifer&display=swap" rel="stylesheet">
 <span style="color: red; font-size: 15; font-family: Nosifer,sans-serif;">
     <img style="width: 18%; height: auto;" src="https://visitor-badge.laobi.icu/badge?page_id=difahanan.visitor-badge&left_color=RED&right_color=DARKBLUE&left_text=VISITORS">
 </span>
-<br>-->
 
- 
-<p align="center">
+<br>
+
+<!--<p align="center">
   <a><img src="https://readme-typing-svg.herokuapp.com font=Time+New+Roman&color=%23C8BE25&size=50&center=true&vCenter=true&width=800&height=100&lines=Software+Engineer+;Computer+Science+Student"></a>
 </p>
 
