@@ -18,6 +18,7 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="150px"></picture>
 -->
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="150px"></picture>
 
 <h1 align="center">LANGUAGE & TOOLS
 <br><br>
