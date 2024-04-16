@@ -17,6 +17,7 @@
 ## <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px></picture>-->
 
 <h1 align="center">LANGUAGE & TOOLS
+
 <br><br>
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
