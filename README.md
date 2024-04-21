@@ -6,6 +6,7 @@
     <img style="width: 18%; height: auto;" src="https://visitor-badge.laobi.icu/badge?page_id=difahanan.visitor-badge&left_color=RED&right_color=DARKBLUE&left_text=VISITORS">
 </span>
 <br>
+
 <!--<p align="center">
   <a><img src="https://readme-typing-svg.herokuapp.com font=Time+New+Roman&color=%23C8BE25&size=50&center=true&vCenter=true&width=800&height=100&lines=Software+Engineer+;Computer+Science+Student"></a>
 </p>
